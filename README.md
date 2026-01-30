@@ -1,2 +1,3 @@
 # git-github-demo
-this is my first github repository
+this is my first Github repository
+Author - Aayush Gupta
